@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.logo{
+    font-family: "Nerko One", cursive;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.socialMediaImg{
+    height: 20px;
+}
+
+.sectionOne{
+    padding-top: 80px;
+}
